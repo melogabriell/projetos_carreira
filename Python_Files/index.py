@@ -1,1 +1,1 @@
-teste para o git Macbook Pro novamente 2 um milhão
+print("Goodbye")
